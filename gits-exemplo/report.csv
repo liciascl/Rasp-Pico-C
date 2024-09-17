@@ -1,0 +1,243 @@
+repo_id,Date,Commit_msg,Commit_counter,Commit_hash,Issue,Description
+codes/24b-emb-aps-1-abc,2024-08-24T14:35:46-03:00,"botoes, son, aleatorio",1,eddf579e1331d2717b62dc3944eee1e32bafa688,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-abc,2024-08-24T14:35:46-03:00,"botoes, son, aleatorio",1,eddf579e1331d2717b62dc3944eee1e32bafa688,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-abc,2024-08-24T14:35:46-03:00,"botoes, son, aleatorio",1,eddf579e1331d2717b62dc3944eee1e32bafa688,cInHeadFile,main.c.dump
+codes/24b-emb-aps-1-abc,2024-08-24T14:56:27-03:00,"botoes, son, aleatorio",2,8b2d8f6a86b6c290cb09cd61aabc5ca8da80b83c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-abc,2024-08-24T14:56:27-03:00,"botoes, son, aleatorio",2,8b2d8f6a86b6c290cb09cd61aabc5ca8da80b83c,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-abc,2024-08-24T14:56:27-03:00,"botoes, son, aleatorio",2,8b2d8f6a86b6c290cb09cd61aabc5ca8da80b83c,cInHeadFile,main.c.dump
+codes/24b-emb-aps-1-bill_amostradinho_receba,2024-08-26T19:46:21+00:00,primeiro,1,e5021dd29bc72266de68cbf70dcb84c1dce55529,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-bill_amostradinho_receba,2024-08-26T21:30:05+00:00,.,2,f80c79bb4acd44e6e0c28a3613208e7b098d8d25,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-bill_amostradinho_receba,2024-08-26T22:16:08+00:00,Arrumar delay,3,ebe14baa615c89d50897d4a346004c071cfc289c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-bill_amostradinho_receba,2024-08-27T23:50:01+00:00,Funcionando,4,690ce38fab8ec8138e23e2ec2ce05239a667ee0f,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-bill_amostradinho_receba,2024-08-30T16:34:12+00:00,Maquina estado,12,f427c238ec3a3ace41c4026958b5f71905cd94e5,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-bill_amostradinho_receba,2024-08-30T16:34:12+00:00,Maquina estado,12,f427c238ec3a3ace41c4026958b5f71905cd94e5,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T18:55:14-03:00,LCD,6,062351849c5cea9990b7ab23bff03875a8a7db1a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T18:55:14-03:00,LCD,6,062351849c5cea9990b7ab23bff03875a8a7db1a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T18:55:14-03:00,LCD,6,062351849c5cea9990b7ab23bff03875a8a7db1a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T18:55:14-03:00,LCD,6,062351849c5cea9990b7ab23bff03875a8a7db1a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T21:38:45-03:00,...,7,c952e80caa9e85b9185442b5d6c63dd3adf8e04b,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T21:38:45-03:00,...,7,c952e80caa9e85b9185442b5d6c63dd3adf8e04b,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T21:38:45-03:00,...,7,c952e80caa9e85b9185442b5d6c63dd3adf8e04b,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-buhrdjan,2024-08-26T21:38:45-03:00,...,7,c952e80caa9e85b9185442b5d6c63dd3adf8e04b,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-22T17:28:42+00:00,Praticamente feito,1,1c33542cde4ad6f30eab394301a69f2b07a1c8c7,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-22T17:28:42+00:00,Praticamente feito,1,1c33542cde4ad6f30eab394301a69f2b07a1c8c7,printfInIRQ,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-22T17:30:09+00:00,SET_IRQ,2,c4e3bb626fd8c2275b1589e83e800db1a39f3cb1,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-22T17:30:09+00:00,SET_IRQ,2,c4e3bb626fd8c2275b1589e83e800db1a39f3cb1,printfInIRQ,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-29T15:07:30-03:00,projeto pronto,10,a1ecbc8f5b64b585bf094cf9814c856e6dc43e6f,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-29T15:07:30-03:00,projeto pronto,10,a1ecbc8f5b64b585bf094cf9814c856e6dc43e6f,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-29T15:09:48-03:00,correcao,11,7711345a8f2e895dab8e6009d2536a43787b3c41,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-29T15:14:08-03:00,correcao 1.1,12,6e6189e5e5341d026789958f5fc7351098accba3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-29T15:20:09-03:00,correcao 1.2,13,4d38c8e7d905c28fe6e3b7ecac98b350af96962c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T00:04:02-03:00,correcao 1.3,14,20b7804debe53e8c5ebd3536ba5fcee24b212d4c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T00:23:58-03:00,Imagem do protótipo físico,15,c83581b5cdfda2c677bed45c84e0933dd5f458ec,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T00:25:30-03:00,Create README.md,16,ecc0d473ad82e90dc1ef3e902d8652355cceffa7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T15:11:47-03:00,correcao 1.4,17,5d2b4e1426f39f577bdcd6cf8d9cb6908ff9b748,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T15:17:32-03:00,correcao 1.5.1,18,f6752a38e03192357f1c41f3847f2075ad813901,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T15:18:03-03:00,correcao 1.5.2,19,dc853d07c2194549238ab45d544ba1ed20356028,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-franco_paraiso,2024-08-30T15:18:33-03:00,correcao 1.5.3,20,806e66a8ee892c8636b1053f2410388074b4bf33,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-jv_jv,2024-08-28T14:38:24+00:00,tocar musica no começo,12,d5724ebaf32d9ce68fee0c7972edb07936c51fe4,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-jv_jv,2024-08-28T14:38:24+00:00,tocar musica no começo,12,d5724ebaf32d9ce68fee0c7972edb07936c51fe4,cInHeadFile,main.c.dump
+codes/24b-emb-aps-1-jv_jv,2024-08-29T00:09:44+00:00,teste para passar na qualidade de codigo,13,6fc2f14d36a353f51745555d967b7fe09033b530,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-28T19:28:03-03:00,att de código,3,86ef77dd5628ec12effb79c8cec88121e3481e52,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-28T19:28:03-03:00,att de código,3,86ef77dd5628ec12effb79c8cec88121e3481e52,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-29T15:48:48-03:00,time out feito,4,e10a105312ee7409e5d6584f84201fd18c8eb645,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-29T15:48:48-03:00,time out feito,4,e10a105312ee7409e5d6584f84201fd18c8eb645,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-30T10:34:08-03:00,correção cpp,5,f6fe9d8e7f213899da3951284906c41afe83ce5c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-30T10:34:08-03:00,correção cpp,5,f6fe9d8e7f213899da3951284906c41afe83ce5c,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-katcahu,2024-08-30T14:18:28+00:00,fix embedded-check,6,420c89d5463a4e4537fde6eebcbc9f1bf466db64,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-21T22:32:54+00:00,update main,2,8dbb5f169bc73099e8359b54614908e3df68595d,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-26T17:29:04+00:00,apdate main,3,419b32624ebc60138475491e8c8c431528de6d17,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-26T18:23:02+00:00,update main,4,2a9fc471a1a8437b810e1278e75cbbeb9282e0f2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-26T18:26:17+00:00,Merge remote-tracking branch 'refs/remotes/origin/main',5,7e1a26a2f93eed450f8cf0d4184ca3e9968b3454,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-26T18:27:53+00:00,update,6,7e92b842b9a725956b96feededc3696be05906d3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-26T18:32:18+00:00,update_2,7,318227eba40543e7352c4f5f137e8c0124996ed2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-koelle_frugis,2024-08-26T18:35:06+00:00,update_3,8,53025fb52bc198c3c1413f8a771224ce62c7f8f6,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:00:09-03:00,funcionando,4,76308726f7b07be148896129eb08cf5b3c814a3e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:00:09-03:00,funcionando,4,76308726f7b07be148896129eb08cf5b3c814a3e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:00:09-03:00,funcionando,4,76308726f7b07be148896129eb08cf5b3c814a3e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:00:09-03:00,funcionando,4,76308726f7b07be148896129eb08cf5b3c814a3e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:21:00-03:00,jogo guncionando ver delays,5,6a14f4773809a3d4b9803aa8cfd7eb30bf37a0b3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:21:00-03:00,jogo guncionando ver delays,5,6a14f4773809a3d4b9803aa8cfd7eb30bf37a0b3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:21:00-03:00,jogo guncionando ver delays,5,6a14f4773809a3d4b9803aa8cfd7eb30bf37a0b3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-21T20:21:00-03:00,jogo guncionando ver delays,5,6a14f4773809a3d4b9803aa8cfd7eb30bf37a0b3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T14:01:39-03:00,com simulador errado,6,ff8fbf9a6ce29c44a25f298444dcbc50b5ae8159,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T14:01:39-03:00,com simulador errado,6,ff8fbf9a6ce29c44a25f298444dcbc50b5ae8159,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T14:01:39-03:00,com simulador errado,6,ff8fbf9a6ce29c44a25f298444dcbc50b5ae8159,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T14:01:39-03:00,com simulador errado,6,ff8fbf9a6ce29c44a25f298444dcbc50b5ae8159,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T15:45:09-03:00,"funcionando, mas falta algumas coisas",7,f73e8c330155e17d4ead582f71f1c701530581a0,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T15:45:09-03:00,"funcionando, mas falta algumas coisas",7,f73e8c330155e17d4ead582f71f1c701530581a0,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T15:45:09-03:00,"funcionando, mas falta algumas coisas",7,f73e8c330155e17d4ead582f71f1c701530581a0,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-26T15:45:09-03:00,"funcionando, mas falta algumas coisas",7,f73e8c330155e17d4ead582f71f1c701530581a0,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:13:29-03:00,musica do darth vader feita,8,aa61e5bc97ea746ac52fc79d894cf6bca3ca7e06,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:13:29-03:00,musica do darth vader feita,8,aa61e5bc97ea746ac52fc79d894cf6bca3ca7e06,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:13:29-03:00,musica do darth vader feita,8,aa61e5bc97ea746ac52fc79d894cf6bca3ca7e06,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:13:29-03:00,musica do darth vader feita,8,aa61e5bc97ea746ac52fc79d894cf6bca3ca7e06,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:47:40-03:00,timer feito,9,38095d5af8db059eb6dde1bc28647a7c64d69301,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:47:40-03:00,timer feito,9,38095d5af8db059eb6dde1bc28647a7c64d69301,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:47:40-03:00,timer feito,9,38095d5af8db059eb6dde1bc28647a7c64d69301,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:47:40-03:00,timer feito,9,38095d5af8db059eb6dde1bc28647a7c64d69301,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:51:22-03:00,encerrar ao errar um botao instantaneamente,10,b61eeb3cc69c9d8da513c4c123a4b8feb87048a8,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:51:22-03:00,encerrar ao errar um botao instantaneamente,10,b61eeb3cc69c9d8da513c4c123a4b8feb87048a8,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:51:22-03:00,encerrar ao errar um botao instantaneamente,10,b61eeb3cc69c9d8da513c4c123a4b8feb87048a8,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T18:51:22-03:00,encerrar ao errar um botao instantaneamente,10,b61eeb3cc69c9d8da513c4c123a4b8feb87048a8,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T20:30:43-03:00,nada,11,602b59cca14fd06723b79eed35d65a41420c3061,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T20:30:43-03:00,nada,11,602b59cca14fd06723b79eed35d65a41420c3061,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T20:30:43-03:00,nada,11,602b59cca14fd06723b79eed35d65a41420c3061,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-27T20:30:43-03:00,nada,11,602b59cca14fd06723b79eed35d65a41420c3061,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-28T18:53:25-03:00,ainda com erro de backout,12,2ace52c1c4f3bc6e34e49b291e0403ea792b2260,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-28T18:53:25-03:00,ainda com erro de backout,12,2ace52c1c4f3bc6e34e49b291e0403ea792b2260,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-28T18:53:25-03:00,ainda com erro de backout,12,2ace52c1c4f3bc6e34e49b291e0403ea792b2260,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-28T18:53:25-03:00,ainda com erro de backout,12,2ace52c1c4f3bc6e34e49b291e0403ea792b2260,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T14:21:50-03:00,jogo com timer certo/falta dividir arquivos,13,5e4196de57c62f280b03792d15054c8197f472d2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T14:21:50-03:00,jogo com timer certo/falta dividir arquivos,13,5e4196de57c62f280b03792d15054c8197f472d2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T14:21:50-03:00,jogo com timer certo/falta dividir arquivos,13,5e4196de57c62f280b03792d15054c8197f472d2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T14:21:50-03:00,jogo com timer certo/falta dividir arquivos,13,5e4196de57c62f280b03792d15054c8197f472d2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T15:07:50-03:00,musica completa dart vader ainda com erro do cccheck,16,e2049b9542eaaa82bbd34e727cdbf6c71b955cb9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T15:07:50-03:00,musica completa dart vader ainda com erro do cccheck,16,e2049b9542eaaa82bbd34e727cdbf6c71b955cb9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T15:07:50-03:00,musica completa dart vader ainda com erro do cccheck,16,e2049b9542eaaa82bbd34e727cdbf6c71b955cb9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T15:07:50-03:00,musica completa dart vader ainda com erro do cccheck,16,e2049b9542eaaa82bbd34e727cdbf6c71b955cb9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T15:18:13-03:00,tentativa 2-passar testes,17,dca5985c85678e530f0923f6ca8adc769d6b2016,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T16:28:31-03:00,alguns concertos ainda falta checar cccheck,18,7648de6cba496d8284c83c6c79b85f57ff2689c7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T16:28:31-03:00,alguns concertos ainda falta checar cccheck,18,7648de6cba496d8284c83c6c79b85f57ff2689c7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T20:05:00+00:00,testando 3,19,7afc0c007429f2007e3cd6055366f57a8f1189dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T20:05:00+00:00,testando 3,19,7afc0c007429f2007e3cd6055366f57a8f1189dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T20:07:21+00:00,testando 4,20,d014d7e817efb33bd385f9da581581fc4e49e1b2,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T20:17:04+00:00,test 6,22,9534e3209fbde6190faaf3385cfd99eb4dd97f64,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T20:17:04+00:00,test 6,22,9534e3209fbde6190faaf3385cfd99eb4dd97f64,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T21:41:31-03:00,ainda falta cccheck,24,982f6f2644ff447bed1118bc13b595c3aa3820cd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-29T21:41:31-03:00,ainda falta cccheck,24,982f6f2644ff447bed1118bc13b595c3aa3820cd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-30T10:57:59-03:00,.h,25,4d489c5b3eb71087bbbfd92f4443aa33d958bb60,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-leo_luiza,2024-08-30T10:57:59-03:00,.h,25,4d489c5b3eb71087bbbfd92f4443aa33d958bb60,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-21T17:50:36-03:00,sem testar,1,a6babe1df79de55fead0e54e0b5d55469f751682,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-21T17:50:36-03:00,sem testar,1,a6babe1df79de55fead0e54e0b5d55469f751682,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-21T17:50:36-03:00,sem testar,1,a6babe1df79de55fead0e54e0b5d55469f751682,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-26T15:29:43-03:00,alteraçoes,2,2cf9e02c830ff4a43ca43f8dd1c1489818682484,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-26T15:29:43-03:00,alteraçoes,2,2cf9e02c830ff4a43ca43f8dd1c1489818682484,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-26T15:29:43-03:00,alteraçoes,2,2cf9e02c830ff4a43ca43f8dd1c1489818682484,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-marinna_veronica,2024-08-28T13:50:53-03:00,arquivos separados errados em .h e .c corrigir,3,a2f9016dc214ea3aaeb85878851af2e7a16b6f7a,cInHeadFile,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-29T10:15:46-03:00,Jogavel e mais,2,bd6be461e1607242b5c58f751fea2b958f23dee8,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-29T10:19:55-03:00,Problemas,3,6c1158943cb663987057fc731037187544585204,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-29T10:52:37-03:00,talvez sem problemas?,4,06dbc9ad8203e0a285f8380be49371e5b9dc997b,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-30T16:35:13-03:00,Update main.c,9,61361b1631599cd64c2fd4465d4231e527756e6a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-30T16:35:13-03:00,Update main.c,9,61361b1631599cd64c2fd4465d4231e527756e6a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-30T16:35:13-03:00,Update main.c,9,61361b1631599cd64c2fd4465d4231e527756e6a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-30T16:35:13-03:00,Update main.c,9,61361b1631599cd64c2fd4465d4231e527756e6a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-30T16:35:13-03:00,Update main.c,9,61361b1631599cd64c2fd4465d4231e527756e6a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-30T16:35:13-03:00,Update main.c,9,61361b1631599cd64c2fd4465d4231e527756e6a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:09-03:00,Update 4 head_file.h,15,2a8a4bb06fdd645d63e3cf1e8df2587ac3aed110,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:09-03:00,Update 4 head_file.h,15,2a8a4bb06fdd645d63e3cf1e8df2587ac3aed110,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:09-03:00,Update 4 head_file.h,15,2a8a4bb06fdd645d63e3cf1e8df2587ac3aed110,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:09-03:00,Update 4 head_file.h,15,2a8a4bb06fdd645d63e3cf1e8df2587ac3aed110,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:09-03:00,Update 4 head_file.h,15,2a8a4bb06fdd645d63e3cf1e8df2587ac3aed110,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:09-03:00,Update 4 head_file.h,15,2a8a4bb06fdd645d63e3cf1e8df2587ac3aed110,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:39-03:00,Update 4 main.c,16,5cd950da1d9d77bf7e72c7b4f60d13fe83f11e28,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:39-03:00,Update 4 main.c,16,5cd950da1d9d77bf7e72c7b4f60d13fe83f11e28,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:39-03:00,Update 4 main.c,16,5cd950da1d9d77bf7e72c7b4f60d13fe83f11e28,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:39-03:00,Update 4 main.c,16,5cd950da1d9d77bf7e72c7b4f60d13fe83f11e28,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:39-03:00,Update 4 main.c,16,5cd950da1d9d77bf7e72c7b4f60d13fe83f11e28,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:21:39-03:00,Update 4 main.c,16,5cd950da1d9d77bf7e72c7b4f60d13fe83f11e28,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:25:11-03:00,Update 5 head_file.c,17,2d1f57fac7f41581c8ae08720464c056cd0fb5ea,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:25:11-03:00,Update 5 head_file.c,17,2d1f57fac7f41581c8ae08720464c056cd0fb5ea,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:25:11-03:00,Update 5 head_file.c,17,2d1f57fac7f41581c8ae08720464c056cd0fb5ea,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:25:11-03:00,Update 5 head_file.c,17,2d1f57fac7f41581c8ae08720464c056cd0fb5ea,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:25:11-03:00,Update 5 head_file.c,17,2d1f57fac7f41581c8ae08720464c056cd0fb5ea,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-nicholas_lucas,2024-08-31T16:25:11-03:00,Update 5 head_file.c,17,2d1f57fac7f41581c8ae08720464c056cd0fb5ea,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-26T16:58:04-03:00,codigo,2,20268db55e4223e91cd6a19f12b479698c0cc50f,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-26T16:58:04-03:00,codigo,2,20268db55e4223e91cd6a19f12b479698c0cc50f,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-27T17:46:30+00:00,funciona inicialmente,3,9a57ad7df1b6edfd6c5d5bb88a64bc1cfba4354a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-27T17:46:30+00:00,funciona inicialmente,3,9a57ad7df1b6edfd6c5d5bb88a64bc1cfba4354a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-27T17:46:30+00:00,funciona inicialmente,3,9a57ad7df1b6edfd6c5d5bb88a64bc1cfba4354a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-27T17:46:30+00:00,funciona inicialmente,3,9a57ad7df1b6edfd6c5d5bb88a64bc1cfba4354a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:40:45+00:00,sequência correta,4,7bd94503e04a946d64d3eae8f1c7d4ba7f2c0a0c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:40:45+00:00,sequência correta,4,7bd94503e04a946d64d3eae8f1c7d4ba7f2c0a0c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:40:45+00:00,sequência correta,4,7bd94503e04a946d64d3eae8f1c7d4ba7f2c0a0c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:40:45+00:00,sequência correta,4,7bd94503e04a946d64d3eae8f1c7d4ba7f2c0a0c,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:42:07+00:00,embedded,5,645822f5fdbe0eb55c38aa267e873a30b5931239,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:42:07+00:00,embedded,5,645822f5fdbe0eb55c38aa267e873a30b5931239,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:42:07+00:00,embedded,5,645822f5fdbe0eb55c38aa267e873a30b5931239,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:42:07+00:00,embedded,5,645822f5fdbe0eb55c38aa267e873a30b5931239,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:43:50+00:00,embedded,6,eb541c2c1c3b272c14d0f2ed6b5364171f9c673d,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:43:50+00:00,embedded,6,eb541c2c1c3b272c14d0f2ed6b5364171f9c673d,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:43:50+00:00,embedded,6,eb541c2c1c3b272c14d0f2ed6b5364171f9c673d,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T12:43:50+00:00,embedded,6,eb541c2c1c3b272c14d0f2ed6b5364171f9c673d,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-28T13:17:15+00:00,checar,7,6575bc06c29355165178ba3261710a910589bcd9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T14:36:01+00:00,separado em arquivos,15,7cd526229e964ca2ec16d8b1a8716988b07428d9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T14:36:01+00:00,separado em arquivos,15,7cd526229e964ca2ec16d8b1a8716988b07428d9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T16:38:56+00:00,arquivos,16,e89f44a270d4b34ab254ab59e7aa4e4e00fe0867,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T16:38:56+00:00,arquivos,16,e89f44a270d4b34ab254ab59e7aa4e4e00fe0867,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T16:45:17+00:00,uéééééé,17,82ce6c01d6e8d7331630d56276e703c816053a57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T16:45:17+00:00,uéééééé,17,82ce6c01d6e8d7331630d56276e703c816053a57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T17:07:45+00:00,arquivos,20,be7487d2cf92815ee2e4f1ce784184c0d9c4f360,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T17:07:45+00:00,arquivos,20,be7487d2cf92815ee2e4f1ce784184c0d9c4f360,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T21:27:57+00:00,vou desistir,21,bdcdd5b9a794df8fda3ff26699e8e7fd622fa604,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-roberta_marcos,2024-08-30T21:27:57+00:00,vou desistir,21,bdcdd5b9a794df8fda3ff26699e8e7fd622fa604,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-22T14:55:35+00:00,initial logic,1,d0bc528d4afff7e755373d057d4917d31b21c155,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-22T14:55:35+00:00,initial logic,1,d0bc528d4afff7e755373d057d4917d31b21c155,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-22T21:58:01+00:00,add sadness and sorrow music,2,f8feb37eb667be0dddecd0e77d4177c0c0ef1ec8,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-22T21:58:01+00:00,add sadness and sorrow music,2,f8feb37eb667be0dddecd0e77d4177c0c0ef1ec8,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-27T21:44:49+00:00,add timer,3,62f8fc46943e4f52b34326a039f1dded1237fcc9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-27T21:44:49+00:00,add timer,3,62f8fc46943e4f52b34326a039f1dded1237fcc9,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:43:57+00:00,add head files,6,9b8fd0ee5ed1e8230fcf2e0a89095476d2f63ca7,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:51:21+00:00,removing callback head files,7,8d8c4495ba449fb1468780b74da9b936f89a0eb2,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:51:21+00:00,removing callback head files,7,8d8c4495ba449fb1468780b74da9b936f89a0eb2,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:51:21+00:00,removing callback head files,7,8d8c4495ba449fb1468780b74da9b936f89a0eb2,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:51:21+00:00,removing callback head files,7,8d8c4495ba449fb1468780b74da9b936f89a0eb2,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-sigma_embassados,2024-08-29T17:51:21+00:00,removing callback head files,7,8d8c4495ba449fb1468780b74da9b936f89a0eb2,noIncludeGuard,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-22T14:55:06+00:00,jogo funcionando sem aleatoriedade,1,a6001c43089f50fd24472c9142ce9de89c9cac36,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-22T14:55:06+00:00,jogo funcionando sem aleatoriedade,1,a6001c43089f50fd24472c9142ce9de89c9cac36,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-22T14:55:06+00:00,jogo funcionando sem aleatoriedade,1,a6001c43089f50fd24472c9142ce9de89c9cac36,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-22T14:55:06+00:00,jogo funcionando sem aleatoriedade,1,a6001c43089f50fd24472c9142ce9de89c9cac36,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:53:58+00:00,musica de derota funcionando,2,141a010c02b6703a06cfc21b12c298c4bb9aa6f3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:53:58+00:00,musica de derota funcionando,2,141a010c02b6703a06cfc21b12c298c4bb9aa6f3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:53:58+00:00,musica de derota funcionando,2,141a010c02b6703a06cfc21b12c298c4bb9aa6f3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:53:58+00:00,musica de derota funcionando,2,141a010c02b6703a06cfc21b12c298c4bb9aa6f3,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:56:57+00:00,musica erro funcionando,3,6723fe791b00d1a1acb7ca447a7e1f756a17c9c1,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:56:57+00:00,musica erro funcionando,3,6723fe791b00d1a1acb7ca447a7e1f756a17c9c1,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:56:57+00:00,musica erro funcionando,3,6723fe791b00d1a1acb7ca447a7e1f756a17c9c1,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T17:56:57+00:00,musica erro funcionando,3,6723fe791b00d1a1acb7ca447a7e1f756a17c9c1,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T20:16:42+00:00,t1,4,608da04e47975bb5429080823cea03ac8a1e6f4e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T20:16:42+00:00,t1,4,608da04e47975bb5429080823cea03ac8a1e6f4e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T20:16:42+00:00,t1,4,608da04e47975bb5429080823cea03ac8a1e6f4e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T20:16:42+00:00,t1,4,608da04e47975bb5429080823cea03ac8a1e6f4e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-26T20:16:42+00:00,t1,4,608da04e47975bb5429080823cea03ac8a1e6f4e,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T01:35:48+00:00,musica star wars funcionando,5,6a25d0591cc6224da1da89fdba9d576425004e57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T01:35:48+00:00,musica star wars funcionando,5,6a25d0591cc6224da1da89fdba9d576425004e57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T01:35:48+00:00,musica star wars funcionando,5,6a25d0591cc6224da1da89fdba9d576425004e57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T01:35:48+00:00,musica star wars funcionando,5,6a25d0591cc6224da1da89fdba9d576425004e57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T01:35:48+00:00,musica star wars funcionando,5,6a25d0591cc6224da1da89fdba9d576425004e57,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T02:19:38+00:00,timeout funcionando,6,e456a547386971a5b4434180bae1d767495d8427,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T02:19:38+00:00,timeout funcionando,6,e456a547386971a5b4434180bae1d767495d8427,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T02:19:38+00:00,timeout funcionando,6,e456a547386971a5b4434180bae1d767495d8427,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T02:19:38+00:00,timeout funcionando,6,e456a547386971a5b4434180bae1d767495d8427,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T02:19:38+00:00,timeout funcionando,6,e456a547386971a5b4434180bae1d767495d8427,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T15:38:25+00:00,funcionando cm as variaveis fora. Arquivo musicas nao funcianndo,7,6889d4658dd74630d3b58c195bcad687f197b0dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T15:38:25+00:00,funcionando cm as variaveis fora. Arquivo musicas nao funcianndo,7,6889d4658dd74630d3b58c195bcad687f197b0dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T15:38:25+00:00,funcionando cm as variaveis fora. Arquivo musicas nao funcianndo,7,6889d4658dd74630d3b58c195bcad687f197b0dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T15:38:25+00:00,funcionando cm as variaveis fora. Arquivo musicas nao funcianndo,7,6889d4658dd74630d3b58c195bcad687f197b0dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T15:38:25+00:00,funcionando cm as variaveis fora. Arquivo musicas nao funcianndo,7,6889d4658dd74630d3b58c195bcad687f197b0dd,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-27T15:38:25+00:00,funcionando cm as variaveis fora. Arquivo musicas nao funcianndo,7,6889d4658dd74630d3b58c195bcad687f197b0dd,cInHeadFile,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-29T22:17:33+00:00,funcionando com estados,8,8a1f1ea029c4f7d60bf89b1e1abecd9f449fef3a,cInHeadFile,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,notVolatileVarIrq,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,badUseGlobalVar,main.c.dump
+codes/24b-emb-aps-1-slindenbinden,2024-08-30T11:17:35-03:00,tuiuiu commit,9,482d20c50eecdcf518828617a8e2360441d2b353,badUseGlobalVar,main.c.dump
